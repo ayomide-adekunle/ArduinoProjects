@@ -9,9 +9,12 @@ PORT = "/dev/cu.usbmodem14101"          # Windows example: COM5
 BAUD = 9600
 
 #install the following plugins
-#python3 -m pip install pyserial pynput
+# python3 -m pip install pyserial pynput
 # or python -m pip install pyserial pynput
-# if you get pip error, then you need to install "pip"
+# if you get pip error, then you need to install "pip" -    python --version
+
+# run the python code
+# python3 python_code.py
 
 
 # Extra scaling on PC side (optional)
